@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+.vscode/
+
+# misc
+.DS_Store
+Thumbs.db
+Desktop.ini
+

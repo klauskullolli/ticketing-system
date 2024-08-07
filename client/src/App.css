@@ -1,0 +1,155 @@
+.alert-component {
+    width: 50%;
+    top: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.login-form {
+    background-color: rgba(94, 148, 184, 0.397);
+    padding: 70px;
+    border-radius: 10px;
+    width: 40%;
+    height: 50%;
+    margin: auto;
+    font-style: italic;
+    font-size: large;
+
+}
+
+
+.login-nav {
+    display: inline;
+    padding: 0;
+    color: blue;
+    text-decoration: underline;
+
+}
+
+.margin-bottom-login {
+    margin-left: 10%;
+}
+
+.nav-link-large {
+    font-size: 1.25rem;
+}
+
+.x-icon-size {
+    font-size: 0.9rem;
+}
+
+.ticket-label {
+    font-size: 1.5rem;
+    font-weight: bold;
+}   
+
+.creator-span{
+    color: blue;    
+}
+
+.create-by-p {
+    font-size: 1.1rem; 
+    font-weight: bold;
+    font-style: italic;
+}
+
+.ticket-container{
+    width: 95%;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(63, 100, 124, 0.37);
+}
+
+.ticket-input{
+    font-size: 1.1rem; 
+}
+
+.ticket-comment-scroll{
+    padding: 20px;
+    height: 300px;
+    overflow-y: scroll;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.text-block{
+    border-radius: 10px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+    background-color: rgba(92, 139, 94, 0.562);
+    
+}
+
+.text-block-user{
+    font-size: 0.85rem; 
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.text-block-date{
+    font-size: 0.85rem; 
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.text-block-butt{
+    font-size: 0.75rem; 
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    background-color: rgba(92, 139, 94, 0.753);
+}
+
+.text-block-comment{
+    margin-bottom: 0;
+}
+
+.create-ticket-container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    
+}
+
+.create-ticket-label {
+    font-size: 1.1rem;
+    font-weight: bold;
+}   
+
+.ticket-info{
+    font-size: 1.1rem; 
+    font-weight: bold;
+    font-style: italic;
+}
+
+.profile-container {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px; 
+    padding: 20px;
+    background-color: rgba(63, 100, 124, 0.37);
+}   
+
+.profile-info-text{
+    font-size: 1rem; 
+    font-weight: bold;
+    font-style: italic;
+}
+
+.profile-success-text{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1050; 
+}
